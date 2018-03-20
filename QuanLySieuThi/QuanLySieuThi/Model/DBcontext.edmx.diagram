@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e36db82910814857aa52ba13561802bb" Name="Diagram1">
+        <EntityTypeShape EntityType="BANHANGSIEUTHIModel.BaoCaoThang" Width="1.5" PointX="3" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANHANGSIEUTHIModel.ChiTietBaoCao" Width="1.5" PointX="5.25" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANHANGSIEUTHIModel.ChiTietDonHang" Width="1.5" PointX="8.25" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANHANGSIEUTHIModel.ChiTietNhap" Width="1.5" PointX="8.25" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANHANGSIEUTHIModel.ChiTietXuat" Width="1.5" PointX="8.25" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANHANGSIEUTHIModel.ChucVu" Width="1.5" PointX="1.5" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANHANGSIEUTHIModel.DoiTac" Width="1.5" PointX="3.75" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANHANGSIEUTHIModel.DonHang" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANHANGSIEUTHIModel.HangHoa" Width="1.5" PointX="3" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANHANGSIEUTHIModel.KhachHang" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANHANGSIEUTHIModel.LoaiHang" Width="1.5" PointX="0.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANHANGSIEUTHIModel.NhanVien" Width="1.5" PointX="3.75" PointY="16" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANHANGSIEUTHIModel.PhieuNhap" Width="1.5" PointX="6" PointY="14" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANHANGSIEUTHIModel.PhieuXuat" Width="1.5" PointX="6" PointY="19" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANHANGSIEUTHIModel.sysdiagram" Width="1.5" PointX="10.75" PointY="2.375" IsExpanded="true" />
+        <AssociationConnector Association="BANHANGSIEUTHIModel.FK__ChiTietBa__MaBao__3552E9B6" ManuallyRouted="false" />
+        <AssociationConnector Association="BANHANGSIEUTHIModel.FK__ChiTietBa__MaHan__36470DEF" ManuallyRouted="false" />
+        <AssociationConnector Association="BANHANGSIEUTHIModel.FK__ChiTietDo__MaDon__3F115E1A" ManuallyRouted="false" />
+        <AssociationConnector Association="BANHANGSIEUTHIModel.FK__ChiTietDo__MaHan__40058253" ManuallyRouted="false" />
+        <AssociationConnector Association="BANHANGSIEUTHIModel.FK__ChiTietNh__MaHan__7E02B4CC" ManuallyRouted="false" />
+        <AssociationConnector Association="BANHANGSIEUTHIModel.FK__ChiTietNh__MaPhi__7D0E9093" ManuallyRouted="false" />
+        <AssociationConnector Association="BANHANGSIEUTHIModel.FK__ChiTietXu__MaHan__01D345B0" ManuallyRouted="false" />
+        <AssociationConnector Association="BANHANGSIEUTHIModel.FK__ChiTietXu__MaPhi__00DF2177" ManuallyRouted="false" />
+        <AssociationConnector Association="BANHANGSIEUTHIModel.FK__NhanVien__MaChuc__276EDEB3" ManuallyRouted="false" />
+        <AssociationConnector Association="BANHANGSIEUTHIModel.FK__PhieuNhap__MaDoi__76619304" ManuallyRouted="false" />
+        <AssociationConnector Association="BANHANGSIEUTHIModel.FK__PhieuXuat__MaDoi__7A3223E8" ManuallyRouted="false" />
+        <AssociationConnector Association="BANHANGSIEUTHIModel.FK__DonHang__MaKh__3C34F16F" ManuallyRouted="false" />
+        <AssociationConnector Association="BANHANGSIEUTHIModel.FK__HangHoa__MaLoai__14270015" ManuallyRouted="false" />
+        <AssociationConnector Association="BANHANGSIEUTHIModel.FK__PhieuNhap__MaNv__756D6ECB" ManuallyRouted="false" />
+        <AssociationConnector Association="BANHANGSIEUTHIModel.FK__PhieuXuat__MaNv__793DFFAF" ManuallyRouted="false" />
+
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

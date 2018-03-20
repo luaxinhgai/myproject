@@ -1,0 +1,105 @@
+﻿E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe.config
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\EntityFramework.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.Data.v14.2.xml
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.Utils.v14.2.xml
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.XtraNavBar.v14.2.xml
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\EntityFramework.xml
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\de\DevExpress.XtraNavBar.v14.2.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\es\DevExpress.XtraNavBar.v14.2.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ja\DevExpress.XtraNavBar.v14.2.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ru\DevExpress.XtraNavBar.v14.2.resources.dll
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csprojResolveAssemblyReference.cache
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Properties.Resources.resources
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.View.frmBanHang.resources
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.View.frmDoiTac.resources
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.View.frmHangHoa.resources
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.View.frmKho.resources
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.View.frmNhanVien.resources
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.View.frmTrangChu.resources
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.GenerateResource.Cache
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe.licenses
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
+E:\HVKTQS\KI 2 2017\Thực tập nhóm_TH13\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
+C:\Users\Administrator\Documents\GitHub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe.config
+C:\Users\Administrator\Documents\GitHub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
+C:\Users\Administrator\Documents\GitHub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe.config
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.Data.v14.2.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.Utils.v14.2.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.XtraNavBar.v14.2.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\EntityFramework.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.Data.v14.2.xml
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.Utils.v14.2.xml
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\DevExpress.XtraNavBar.v14.2.xml
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\EntityFramework.xml
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\de\DevExpress.XtraNavBar.v14.2.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\es\DevExpress.XtraNavBar.v14.2.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ja\DevExpress.XtraNavBar.v14.2.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\ru\DevExpress.XtraNavBar.v14.2.resources.dll
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csprojResolveAssemblyReference.cache
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.View.frmBanHang.resources
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.View.frmDoiTac.resources
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.View.frmHangHoa.resources
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.View.frmKhachHang.resources
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.View.frmNhanVien.resources
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.View.frmTrangChu.resources
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.GenerateResource.Cache
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe.licenses
+D:\hoctap\Git Hub\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.View.cobTk.resources
+
